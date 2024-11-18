@@ -12,7 +12,7 @@ composer require anatoly-shilyaev/my-composer-package
 
 ## Использование
 
-<?php
+    <?php
 
-$summ = new Summ();
-echo $summ->getSumm(2, 5); // 7
+    $summ = new Summ();
+    echo $summ->getSumm(2, 5); // 7
