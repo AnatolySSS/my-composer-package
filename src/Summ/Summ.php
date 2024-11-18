@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AnatolyShilyaev\MyComposerPackage;
+namespace AnatolyShilyaev\MyComposerPackage\Summ;
 
 class Summ
 {
